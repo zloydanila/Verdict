@@ -1,0 +1,11 @@
+name: invariants
+
+on: [push, pull_request]
+
+jobs:
+  core-no-qt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: core must not include Qt
+        run: bash scripts/check-core-no-qt.sh
