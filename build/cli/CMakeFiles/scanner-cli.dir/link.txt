@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/scanner-cli.dir/main.cpp.o" "CMakeFiles/scanner-cli.dir/cli_options.cpp.o" -o scanner-cli  ../core/libscanner-core.a ../modules/libscanner-modules.a ../infra/libscanner-infra.a 

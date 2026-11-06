@@ -1,0 +1,14 @@
+/home/ionin/Рабочий стол/Verdict/build/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/CMakeFiles/rebuild_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/infra/CMakeFiles/scanner-infra.dir
+/home/ionin/Рабочий стол/Verdict/build/infra/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/infra/CMakeFiles/rebuild_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/modules/CMakeFiles/scanner-modules.dir
+/home/ionin/Рабочий стол/Verdict/build/modules/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/modules/CMakeFiles/rebuild_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/core/CMakeFiles/scanner-core.dir
+/home/ionin/Рабочий стол/Verdict/build/core/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/core/CMakeFiles/rebuild_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/cli/CMakeFiles/scanner-cli.dir
+/home/ionin/Рабочий стол/Verdict/build/cli/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/Verdict/build/cli/CMakeFiles/rebuild_cache.dir

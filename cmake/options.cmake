@@ -1,0 +1,5 @@
+option(ENABLE_TESTS "Build tests" ON)
+option(ENABLE_GUI "Build Qt GUI" OFF)
+option(ENABLE_SANITIZERS "ASan/UBSan" OFF)
+option(ENABLE_LLM "LLM triage (Phase 3)" OFF)
+option(ENABLE_STORAGE "SQLite history (Phase 2)" OFF)

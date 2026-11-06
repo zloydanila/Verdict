@@ -1,0 +1,158 @@
+[
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/finding.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/finding.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/finding.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/finding.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/html_parser.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/html_parser.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/html_parser.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/html_parser.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/http_client.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/http_client.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/http_client.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/http_client.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/no_op_external_lookup.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/no_op_external_lookup.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/no_op_external_lookup.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/no_op_external_lookup.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/rate_limiter.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/rate_limiter.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/rate_limiter.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/rate_limiter.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/tls_inspector.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/tls_inspector.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/tls_inspector.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/tls_inspector.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/infra",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-infra.dir/src/url.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/infra/src/url.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/infra/src/url.cpp",
+  "output": "infra/CMakeFiles/scanner-infra.dir/src/url.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/src/module_registry.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/src/module_registry.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/src/module_registry.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/src/module_registry.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/cookie_flags_check/cookie_flags_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/cookie_flags_check/cookie_flags_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/cookie_flags_check/cookie_flags_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/cookie_flags_check/cookie_flags_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/cors_check/cors_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/cors_check/cors_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/cors_check/cors_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/cors_check/cors_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/exposure_check/exposure_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/exposure_check/exposure_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/exposure_check/exposure_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/exposure_check/exposure_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/headers_check/headers_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/headers_check/headers_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/headers_check/headers_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/headers_check/headers_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/open_redirect_check/open_redirect_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/open_redirect_check/open_redirect_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/open_redirect_check/open_redirect_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/open_redirect_check/open_redirect_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/sqli_check/sqli_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/sqli_check/sqli_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/sqli_check/sqli_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/sqli_check/sqli_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/tls_check/tls_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/tls_check/tls_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/tls_check/tls_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/tls_check/tls_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/verification/boolean_pair.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/verification/boolean_pair.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/verification/boolean_pair.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/verification/boolean_pair.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/verification/double_marker.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/verification/double_marker.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/verification/double_marker.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/verification/double_marker.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/verification/status_diff.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/verification/status_diff.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/verification/status_diff.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/verification/status_diff.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/modules",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-modules.dir/xss_check/xss_check.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/modules/xss_check/xss_check.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/modules/xss_check/xss_check.cpp",
+  "output": "modules/CMakeFiles/scanner-modules.dir/xss_check/xss_check.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/core",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-core.dir/src/crawler.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/core/src/crawler.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/core/src/crawler.cpp",
+  "output": "core/CMakeFiles/scanner-core.dir/src/crawler.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/core",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-core.dir/src/scan_orchestrator.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/core/src/scan_orchestrator.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/core/src/scan_orchestrator.cpp",
+  "output": "core/CMakeFiles/scanner-core.dir/src/scan_orchestrator.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/core",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-core.dir/src/reporters/json_reporter.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/core/src/reporters/json_reporter.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/core/src/reporters/json_reporter.cpp",
+  "output": "core/CMakeFiles/scanner-core.dir/src/reporters/json_reporter.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/core",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-core.dir/src/reporters/sarif_reporter.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/core/src/reporters/sarif_reporter.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/core/src/reporters/sarif_reporter.cpp",
+  "output": "core/CMakeFiles/scanner-core.dir/src/reporters/sarif_reporter.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/core",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-core.dir/src/reporters/text_reporter.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/core/src/reporters/text_reporter.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/core/src/reporters/text_reporter.cpp",
+  "output": "core/CMakeFiles/scanner-core.dir/src/reporters/text_reporter.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/cli",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-cli.dir/main.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/cli/main.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/cli/main.cpp",
+  "output": "cli/CMakeFiles/scanner-cli.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ionin/Рабочий стол/Verdict/build/cli",
+  "command": "/usr/bin/c++  -I\"/home/ionin/Рабочий стол/Verdict/core/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)/include\" -I\"/home/ionin/Рабочий стол/Verdict/modules/$(CMAKE_CURRENT_SOURCE_DIR)\" -I\"/home/ionin/Рабочий стол/Verdict/infra/include\" -std=c++20 -o CMakeFiles/scanner-cli.dir/cli_options.cpp.o -c \"/home/ionin/Рабочий стол/Verdict/cli/cli_options.cpp\"",
+  "file": "/home/ionin/Рабочий стол/Verdict/cli/cli_options.cpp",
+  "output": "cli/CMakeFiles/scanner-cli.dir/cli_options.cpp.o"
+}
+]

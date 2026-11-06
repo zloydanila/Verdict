@@ -1,0 +1,1 @@
+#include "scanner/infra/contracts/finding.h"

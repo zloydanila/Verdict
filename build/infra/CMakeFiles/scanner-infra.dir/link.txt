@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscanner-infra.a "CMakeFiles/scanner-infra.dir/src/finding.cpp.o" "CMakeFiles/scanner-infra.dir/src/html_parser.cpp.o" "CMakeFiles/scanner-infra.dir/src/http_client.cpp.o" "CMakeFiles/scanner-infra.dir/src/no_op_external_lookup.cpp.o" "CMakeFiles/scanner-infra.dir/src/rate_limiter.cpp.o" "CMakeFiles/scanner-infra.dir/src/tls_inspector.cpp.o" "CMakeFiles/scanner-infra.dir/src/url.cpp.o"
+/usr/bin/ranlib libscanner-infra.a

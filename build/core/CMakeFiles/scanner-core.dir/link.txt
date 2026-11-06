@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscanner-core.a "CMakeFiles/scanner-core.dir/src/crawler.cpp.o" "CMakeFiles/scanner-core.dir/src/scan_orchestrator.cpp.o" "CMakeFiles/scanner-core.dir/src/reporters/json_reporter.cpp.o" "CMakeFiles/scanner-core.dir/src/reporters/sarif_reporter.cpp.o" "CMakeFiles/scanner-core.dir/src/reporters/text_reporter.cpp.o"
+/usr/bin/ranlib libscanner-core.a
